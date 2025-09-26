@@ -18,3 +18,6 @@ Home Page :<br/>
 Rent Page:  <br/>
 <img width="308" height="667" alt="image" src="https://github.com/user-attachments/assets/d8a0d7fd-2e0e-4d93-a540-5f35a1e4fe43" />
 </p>
+
+<h2>Link to Project Design:</h2>
+https://www.figma.com/design/3Q7c2LjdBosWNiM9FhQOPN/ToolHub?node-id=0-1&t=0mMXaqzyuCzLPjeM-1
